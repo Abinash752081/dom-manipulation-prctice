@@ -1,6 +1,15 @@
 var btn = document.querySelector("button");
 var main = document.querySelector("main");
-var arr =['Hey! I am Abinash.','Hello! My name is Abinash.','Hi! I am Abinash.','Greetings! I am Abinash.','Salutations! I am Abinash.'];
+var arr = [
+    'Abinash: curious and creative.',
+    'Abinash builds with passion.',
+    'Small steps, big progress — Abinash.',
+    'Abinash: learning, growing, creating.',
+    'Keep going, Abinash.',
+    'Abinash turns ideas into code.',
+    'Code, coffee, and Abinash.',
+    'Abinash: calm, focused, persistent.'
+];
 
 btn.addEventListener("click", function() {
     // var div = document.createElement("div");
